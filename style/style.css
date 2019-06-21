@@ -1,0 +1,147 @@
+body{
+	font-size: 20px;
+	background-color: #e8cee5;/*#e09ad8;*/
+	/*color:to change font color*/
+	margin: 3vh;
+	font-family: 'Vollkorn', serif;
+  /*display:flex;
+	flex-direction: column;
+  align-items: center;  */
+}
+
+h1,h2{
+  text-transform: uppercase;
+
+}
+
+h1{
+	color: #feffd6
+}
+
+h2#a{
+	color: #ef4343;
+	  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+h2#b{
+	color:#fc8b2f;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+	/*#ef7343;*/
+}
+
+h2#c{
+	color:#fcff77;
+	 text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+h2#d{
+	color:#54af57;
+	  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+h1,h2{
+	text-align: center;
+}
+
+a:link{
+	color:#770e0e;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#d11919;
+	text-decoration:underline;
+}
+
+.pageTop{
+	background-color: #000000;
+	/*border-radius: 10px;*/
+	padding: 0px 100px 0px 100px;
+}
+
+.content{
+	background-color: #e8cee5; /*#feffd6;*/
+	width: 85vw;
+	max-width: 980px;
+	/*display:flex;
+	flex-direction: column;
+  align-items: center;*/
+}
+
+.contentbox{
+	display:flex;
+	flex-direction: column;
+  align-items: center;
+}
+
+.smallContainer#sA{
+	background-color: #feffd6;
+	border: 5px solid #000000;
+	padding:2vh;
+	margin-bottom: 10px;
+}
+
+.smallContainer#sB{
+	background-color: #feffd6;
+	border: 5px solid #000000;
+	padding:2vh;
+	margin-bottom: 10px;
+}
+
+
+.smallContainer#sC{
+	background-color: #feffd6;
+	border: 5px solid #000000;
+	padding:2vh;
+	margin-bottom: 10px;
+}
+
+
+.smallContainer#sD{
+	background-color: #feffd6;
+	border: 5px solid #000000;
+	padding:2vh;
+	margin-bottom: 10px;
+}
+
+.embedVideo{
+	display: flex;
+	max-width: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+img{
+    width: 40%;
+    /*width:400px;*/
+    height:25vh;
+    margin: 1vh;
+}
+
+.centerImage{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+
+
+}
+
+
+/* Emilia Roberts/emilia.rbrts@gmail.com/totallyFake/ for github: Emilia-26; 2makeAweb*/
